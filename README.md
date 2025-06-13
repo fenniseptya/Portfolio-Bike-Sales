@@ -1,4 +1,4 @@
-# Bike Sales Analysis
+# Analysis about Bike Sales in Europe, North America and pacific
 
 ## 🔍 Project Overview
 This project analyzes customer churn data to identify factors influencing customer retention and provide actionable business insights.
